@@ -1,5 +1,7 @@
-D1
+
 ```
+D1
+C2
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
@@ -22,3 +24,4 @@ public class Main {
             System.out.println("FAIL " + cnt.get("FAIL"));
     }
 }
+
